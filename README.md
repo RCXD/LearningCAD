@@ -10,7 +10,7 @@ Learning CAD(FreeCAD, Blender, eMachineShop, BLR-CAD, LibreCAD, MagicalVowel)
 ## FreeCAD
 1. [FreeCAD Wiki](https://wiki.freecadweb.org/Main_Page)
 ## Blender
-1. 
+1. [Blender 3d: Noob to Pro](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro)
 ## eMachineShop
 1. [Quick Start](https://www.emachineshop.com/help-quick-start/)
 ## BLR-CAD
